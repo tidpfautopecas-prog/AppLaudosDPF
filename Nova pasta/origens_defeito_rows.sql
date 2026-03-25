@@ -1,0 +1,1 @@
+INSERT INTO "public"."origens_defeito" ("id", "label", "value") VALUES ('1', '1 - Fornecedor', '1 - Fornecedor'), ('2', '2 - Global', '2 - Global'), ('3', '3 - Global Transporte', '3 - Global Transporte'), ('4', '4 - Transportadora', '4: - Transportadora'), ('5', '5 - Cliente', '5 - Cliente');

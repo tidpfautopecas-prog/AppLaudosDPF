@@ -1,0 +1,1 @@
+INSERT INTO "public"."disposicoes" ("id", "label", "value") VALUES ('1', '1 - Aceito', '1 - Aceito'), ('2', '2 - Recusado', '2 - Recusado');
